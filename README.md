@@ -1,42 +1,26 @@
-<!--
-  ┌─────────────────────────────────────────────────────────────────────┐
-  │                      Hi there, I’m [Your Name] 👋                  │
-  └─────────────────────────────────────────────────────────────────────┘
--->
-
 # Hi there, I’m Zafaryab Haider 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0F0F0F&width=435&lines=Full-stack+Developer;Open+Source+Enthusiast;Tech+Geek)](https://git.io/typing-svg)
-
-I’m a **[Your Role]** based in **[Your City, Country]**, passionate about building web applications and exploring new technologies.
+I’m a passionate about Large Language Models and exploring new threat vectors to make AI safe and trustworthy.
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Project Name]**  
-- 🌱 I’m learning **[Technology/Topic]**  
-- 👯 I’m open to collaborating on **[Type of Projects]**  
-- 💬 Ask me about **[Your Expertise 1]**, **[Your Expertise 2]**, and **[Your Expertise 3]**  
-- 📫 How to reach me: **[email@example.com]**  
-- ⚡ Fun fact: **[Share something fun about yourself]**
+- 🔭 I’m currently working on Hardware Security.  
+- 🌱 I’m learning HLS at the moment
+- 👯 I’m open to collaborating on any LLM based projects.  
 
 ---
 
 ## 🛠️ Tech Stack
 
-<details>
-  <summary>Click to expand!</summary>
-  <p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45"/>
+          
+</p>
 
-| Frontend                 | Backend                  | DevOps / Tools       |
-|--------------------------|--------------------------|----------------------|
-| ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
-| ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) |
-
-  </p>
-</details>
 
 ---
 
