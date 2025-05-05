@@ -4,7 +4,7 @@
   └─────────────────────────────────────────────────────────────────────┘
 -->
 
-# Hi there, I’m [Your Name] 👋
+# Hi there, I’m Zafaryab Haider 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0F0F0F&width=435&lines=Full-stack+Developer;Open+Source+Enthusiast;Tech+Geek)](https://git.io/typing-svg)
 
