@@ -24,22 +24,12 @@ I’m a passionate about Large Language Models and exploring new threat vectors 
 
 ---
 
-## 📂 Featured Projects
-
-| Project                                   | Description                                   | Link                                 |
-|-------------------------------------------|-----------------------------------------------|--------------------------------------|
-| [Awesome-Repo](https://github.com/you/awesome-repo) | A short description of what this does.        | [📖 View Repo](https://github.com/you/awesome-repo) |
-| [Cool-App](https://github.com/you/cool-app)         | What makes this project cool or unique.       | [🌐 Live Demo](https://cool-app.example.com) |
-| [CLI-Tool](https://github.com/you/cli-tool)         | Command-line utility for XYZ.                 | [📥 Download](https://github.com/you/cli-tool/releases) |
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Your GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zafaryabZhcet&show_icons=true&theme=radical" alt="Your GitHub stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zafaryabZhcet&layout=compact&theme=radical" alt="Top languages"/>
 </p>
 
 ---
@@ -47,15 +37,8 @@ I’m a passionate about Large Language Models and exploring new threat vectors 
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://twitter.com/yourhandle" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:email@example.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://linkedin.com/in/zafaryab" target="_blank">
+    <img alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" height="45"/>
 </p>
 
 ---
@@ -67,5 +50,5 @@ I’m a passionate about Large Language Models and exploring new threat vectors 
 
 <details>
   <summary>⚠️ Note</summary>
-  This is a **template**—feel free to rearrange, remove, or add sections based on what best represents you!
+  More Coming Soon
 </details>
